@@ -13,7 +13,7 @@ $$ |   $$ | $$$$$$\  $$$$$$\    $$$$$$$\  $$$$$$\  $$ |
 
 *`CS undergrad · backend dev · cloud engineer in the making`*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Building+cool+stuff+%26+AWS;Learning+one+commit+at+a+time...;Backend+%7C+Cloud+%7C+DevOps+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+Flask+%26+AWS;Learning+one+commit+at+a+time...;Backend+%7C+Cloud+%7C+DevOps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -46,13 +46,12 @@ currently  : building cool things and breaking fewer of them
 
 ### ⚙️ Backend & APIs
 
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FFB3)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FFB3)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00FFB3)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=python&logoColor=00FFB3)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FFB3)
-![JWT](https://img.shields.io/badge/JWT_Auth-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00FFB3)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=for-the-badge&logo=socketdotio&logoColor=00FFB3)
+![Flask](https://img.shields.io/badge/Flask-00FFB3?style=for-the-badge&logo=flask&logoColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FFB3?style=for-the-badge&logo=javascript&logoColor=0d1117)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-00FFB3?style=for-the-badge&logo=python&logoColor=0d1117)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00FFB3?style=for-the-badge&logo=fastapi&logoColor=0d1117)
+![JWT](https://img.shields.io/badge/JWT_Auth-00FFB3?style=for-the-badge&logo=jsonwebtokens&logoColor=0d1117)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-00FFB3?style=for-the-badge&logo=socketdotio&logoColor=0d1117)
 
 ---
 
@@ -70,7 +69,7 @@ currently  : building cool things and breaking fewer of them
 ![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=00FFB3)
 ![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00FFB3)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-0d1117?style=for-the-badge&logo=gunicorn&logoColor=00FFB3)
-![GitHub Actions](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FFB3)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FFB3)
 
 </div>
 
