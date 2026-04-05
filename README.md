@@ -13,7 +13,7 @@ $$ |   $$ | $$$$$$\  $$$$$$\    $$$$$$$\  $$$$$$\  $$ |
 
 *`CS undergrad · backend dev · cloud engineer in the making`*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+Flask+%26+AWS;Learning+one+commit+at+a+time...;Backend+%7C+Cloud+%7C+DevOps+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Building+cool+stuff+%26+AWS;Learning+one+commit+at+a+time...;Backend+%7C+Cloud+%7C+DevOps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
