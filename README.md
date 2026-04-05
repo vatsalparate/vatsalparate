@@ -1,12 +1,11 @@
 <div align="center">
 
 ```
-██╗   ██╗ █████╗ ████████╗███████╗ █████╗ ██╗
-██║   ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██║
-██║   ██║███████║   ██║   ███████╗███████║██║
-╚██╗ ██╔╝██╔══██║   ██║   ╚════██║██╔══██║██║
- ╚████╔╝ ██║  ██║   ██║   ███████║██║  ██║███████╗
-  ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝
+ __   __ _   _____  ____  _   _  _
+ \ \ / // \ |_   _|/ ___|| | | || |
+  \ V // _ \  | |  \___ \| |_| || |
+   | |/ ___ \ | |   ___) ||  _  || |___
+   |_/_/   \_\|_|  |____/ |_| |_||_____|
 ```
 
 *`CS undergrad · backend dev · cloud engineer in the making`*
@@ -17,7 +16,7 @@
 
 ---
 
-## > whoami
+## 👾 whoami
 
 ```yaml
 name       : Vatsal Parate
@@ -29,7 +28,7 @@ currently  : building cool things and breaking fewer of them
 
 ---
 
-## > cat skills.json
+## 🛠 Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FFB3)
@@ -58,7 +57,7 @@ currently  : building cool things and breaking fewer of them
 
 ---
 
-## > neofetch
+## 📊 Stats
 
 <div align="center">
 
@@ -72,7 +71,7 @@ currently  : building cool things and breaking fewer of them
 
 ---
 
-## > ping me
+## 📬 Contact
 
 <div align="center">
 
