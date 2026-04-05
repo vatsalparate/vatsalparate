@@ -5,7 +5,7 @@
 ██║   ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██║
 ██║   ██║███████║   ██║   ███████╗███████║██║
 ╚██╗ ██╔╝██╔══██║   ██║   ╚════██║██╔══██║██║
-    ╚████╔╝ ██║  ██║   ██║   ███████║██║  ██║███████╗
+ ╚████╔╝ ██║  ██║   ██║   ███████║██║  ██║███████╗
   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
@@ -17,7 +17,7 @@
 
 ---
 
-## `> whoami`
+## > whoami
 
 ```yaml
 name       : Vatsal Parate
@@ -29,15 +29,15 @@ currently  : building cool things and breaking fewer of them
 
 ---
 
-## `> cat skills.json`
+## > cat skills.json
 
-**Languages**
+### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FFB3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FFB3)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FFB3)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FFB3)
 
-**Backend & APIs**
+### Backend & APIs
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FFB3)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FFB3)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00FFB3)
@@ -46,19 +46,19 @@ currently  : building cool things and breaking fewer of them
 ![JWT](https://img.shields.io/badge/JWT_Auth-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00FFB3)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=for-the-badge&logo=socketdotio&logoColor=00FFB3)
 
-**Cloud & DevOps**
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00FFB3)
 ![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=00FFB3)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FFB3)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FFB3)
 
-**Deployment**
+### Deployment
 ![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=00FFB3)
 ![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00FFB3)
 
 ---
 
-## `> neofetch`
+## > neofetch
 
 <div align="center">
 
@@ -72,13 +72,13 @@ currently  : building cool things and breaking fewer of them
 
 ---
 
-## `> ping me`
+## > ping me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFB3)](https://linkedin.com/in/vatsalparate)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FFB3)](https://github.com/vatsalparate)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFB3)](vatsalparate21@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFB3)](mailto:vatsalparate21@gmail.com)
 
 </div>
 
