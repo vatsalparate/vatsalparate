@@ -90,7 +90,7 @@ currently  : building cool things and breaking fewer of them
 |---|---|---|---|
 | **[Study Group Finder](https://glowing-fudge-cfba84.netlify.app)** | Real-time study group platform with live chat & JWT auth | Flask · Socket.IO · SQLAlchemy · Render | ![Live](https://img.shields.io/badge/LIVE-00FFFF?style=flat-square) |
 | **AWS Infra (Terraform)** | Full VPC · public/private subnets · bastion host · MySQL EC2 | Terraform · AWS · EC2 · NAT Gateway | ![Done](https://img.shields.io/badge/DONE-FF00FF?style=flat-square) |
-| **Next Project** | Node.js + MongoDB · something cool incoming | Node.js · MongoDB · TBD | ![WIP](https://img.shields.io/badge/WIP-555555?style=flat-square) |
+| **Next Project** | Springboot + Langchain· something cool incoming | Springboot · Lang| ![WIP](https://img.shields.io/badge/WIP-555555?style=flat-square) |
 
 </div>
 
