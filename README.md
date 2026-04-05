@@ -46,7 +46,7 @@ currently  : building cool things and breaking fewer of them
 ### ⚙️ Backend & APIs
 
 ![Flask](https://img.shields.io/badge/Flask-00FFB3?style=for-the-badge&logo=flask&logoColor=0d1117)
-![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-thebadge&logo=Spring&logoColor=0d1117)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-00FFB3?style=for-the-badge&logo=python&logoColor=0d1117)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-00FFB3?style=for-the-badge&logo=fastapi&logoColor=0d1117)
 ![JWT](https://img.shields.io/badge/JWT_Auth-00FFB3?style=for-the-badge&logo=jsonwebtokens&logoColor=0d1117)
