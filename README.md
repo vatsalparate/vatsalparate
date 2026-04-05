@@ -38,7 +38,6 @@ currently  : building cool things and breaking fewer of them
 ### 💬 Languages
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FFB3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FFB3)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FFB3)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FFB3)
 
@@ -47,11 +46,10 @@ currently  : building cool things and breaking fewer of them
 ### ⚙️ Backend & APIs
 
 ![Flask](https://img.shields.io/badge/Flask-00FFB3?style=for-the-badge&logo=flask&logoColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FFB3?style=for-the-badge&logo=javascript&logoColor=0d1117)
+![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-00FFB3?style=for-the-badge&logo=python&logoColor=0d1117)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-00FFB3?style=for-the-badge&logo=fastapi&logoColor=0d1117)
 ![JWT](https://img.shields.io/badge/JWT_Auth-00FFB3?style=for-the-badge&logo=jsonwebtokens&logoColor=0d1117)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-00FFB3?style=for-the-badge&logo=socketdotio&logoColor=0d1117)
 
 ---
 
