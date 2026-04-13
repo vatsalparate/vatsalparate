@@ -15,10 +15,6 @@ $$ |   $$ | $$$$$$\  $$$$$$\    $$$$$$$\  $$$$$$\  $$ |
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Building+cool+stuff+%F0%9F%9A%80;Provisioning+VPCs+with+Terraform+%E2%98%81%EF%B8%8F;Backend+%7C+Cloud+%7C+DevOps;Learning+one+commit+at+a+time...)](https://git.io/typing-svg)
 
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Building+cool+stuff+%F0%9F%9A%80;Provisioning+VPCs+with+Terraform+%E2%98%81%EF%B8%8F;Backend+%7C+Cloud+%7C+DevOps;Learning+one+commit+at+a+time...)](https://git.io/typing-svg)
-
 
 
 </div>
